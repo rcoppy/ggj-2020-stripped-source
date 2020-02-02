@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: curtain
+  m_Shader: {fileID: 4800000, guid: c20793c5222061c4b833c7b9dc35499c, type: 3}
+  m_ShaderKeywords: _ALPHAFROM_ALPHA _MOTIONSPACE_WORLD _RENDERTYPEKEY_OPAQUE
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlbedoTex:
+        m_Texture: {fileID: 2800000, guid: 72ad54e421175b6478ee511a3f554151, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 2800000, guid: df6fc4dee84a265438350a8f465fbc0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SymbolTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ADSSimpleLitCloth: 1
+    - _ADVANCEDD: 0
+    - _ALPHAA: 0
+    - _AlphaFrom: 1
+    - _AlphaFromm: 0
+    - _BatchingInfo: 0
+    - _BumpScale: 1
+    - _CLOTHH: 0
+    - _CLOTHMOTIONN: 0
+    - _CullMode: 0
+    - _Cutoff: 0.5
+    - _DETAILMOTIONN: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlobalTurbulence: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Internal_ADS: 1
+    - _Internal_DebugMask: 1
+    - _Internal_DebugVariation: 1
+    - _Internal_LitSimple: 1
+    - _Internal_TypeCloth: 1
+    - _Internal_UnityToBoxophobic: 1
+    - _Internal_Version: 232
+    - _Metallic: 0
+    - _Mode: 0
+    - _MotionAmplitude: 0.61
+    - _MotionAmplitude3: 0
+    - _MotionNoise: 1
+    - _MotionScale: 0.29
+    - _MotionScale3: 0
+    - _MotionSpace: 0
+    - _MotionSpacee: 0
+    - _MotionSpacee_ON: 0
+    - _MotionSpeed: 0.79
+    - _MotionSpeed3: 0
+    - _MotionVariation: 0.12
+    - _NormalInvertOnBackface: 1
+    - _NormalScale: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RENDERINGG: 0
+    - _RenderFaces: 2
+    - _RenderMode: 0
+    - _RenderType: 0
+    - _SETTINGSS: 0
+    - _SYMBOLL: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SymbolMode: 0
+    - _SymbolRotation: 0
+    - _UVSec: 0
+    - _ZWrite: 1
+    - __dirty: 1
+    m_Colors:
+    - _AlphaUVs: {r: 1, g: 1, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _MainUVs: {r: 1, g: 1, b: 0, a: 0}
+    - _MotionLocalDirection: {r: 0, g: 0, b: 0, a: 0}
+    - _MotionLocalDirection3: {r: 1, g: 1, b: 1, a: 0}
+    - _SymbolColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SymbolUVs: {r: 1, g: 1, b: 1, a: 0}
+    - _UVZero: {r: 1, g: 1, b: 0, a: 0}

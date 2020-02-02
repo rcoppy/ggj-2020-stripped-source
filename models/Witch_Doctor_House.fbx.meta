@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 4499f750995b13d42892b747a43af636
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back left driver
+    100002: back left pole
+    100004: back left pole_end
+    100006: back left pole_end_end
+    100008: back left target
+    100010: back left target_end
+    100012: back left target_end_end
+    100014: back right driver
+    100016: back right driver_end
+    100018: back right driver_end_end
+    100020: back right pole
+    100022: back right pole_end
+    100024: back right pole_end_end
+    100026: Camera
+    100028: Circle
+    100030: foot.L
+    100032: foot.R
+    100034: forearm.L
+    100036: forearm.L.001
+    100038: front left pole
+    100040: front left pole_end
+    100042: front left pole_end_end
+    100044: front right pole.001
+    100046: front right pole.001_end
+    100048: front right pole.001_end_end
+    100050: hand.L
+    100052: hand.L.001
+    100054: hand.L.001_end
+    100056: hand.L.001_end_end
+    100058: hand.L_end
+    100060: hand.L_end_end
+    100062: Horn attachment point
+    100064: Horn attachment point_end
+    100066: Horn attachment point_end_end
+    100068: jaw
+    100070: Light
+    100072: metarig
+    100074: r_toe.L
+    100076: r_toe.L_end
+    100078: r_toe.L_end_end
+    100080: r_toe.R
+    100082: r_toe.R_end
+    100084: r_toe.R_end_end
+    100086: root
+    100088: shin.L
+    100090: shin.R
+    100092: spine.001
+    100094: spine.001_end
+    100096: spine.001_end_end
+    100098: spine.002
+    100100: spine.003
+    100102: spine.004
+    100104: spine.005
+    100106: spine.006
+    100108: spine.008
+    100110: spine.009
+    100112: spine.010
+    100114: spine.011
+    100116: spine.012
+    100118: spine.013
+    100120: spine.013_end
+    100122: spine.013_end_end
+    100124: spine.014
+    100126: spine.015
+    100128: spine.016
+    100130: spine.017
+    100132: spine.017_end
+    100134: spine.017_end_end
+    100136: upper_arm.L
+    100138: upper_arm.L.001
+    100140: window
+    100142: window.001
+    100144: window.002
+    100146: //RootNode
+    400000: back left driver
+    400002: back left pole
+    400004: back left pole_end
+    400006: back left pole_end_end
+    400008: back left target
+    400010: back left target_end
+    400012: back left target_end_end
+    400014: back right driver
+    400016: back right driver_end
+    400018: back right driver_end_end
+    400020: back right pole
+    400022: back right pole_end
+    400024: back right pole_end_end
+    400026: Camera
+    400028: Circle
+    400030: foot.L
+    400032: foot.R
+    400034: forearm.L
+    400036: forearm.L.001
+    400038: front left pole
+    400040: front left pole_end
+    400042: front left pole_end_end
+    400044: front right pole.001
+    400046: front right pole.001_end
+    400048: front right pole.001_end_end
+    400050: hand.L
+    400052: hand.L.001
+    400054: hand.L.001_end
+    400056: hand.L.001_end_end
+    400058: hand.L_end
+    400060: hand.L_end_end
+    400062: Horn attachment point
+    400064: Horn attachment point_end
+    400066: Horn attachment point_end_end
+    400068: jaw
+    400070: Light
+    400072: metarig
+    400074: r_toe.L
+    400076: r_toe.L_end
+    400078: r_toe.L_end_end
+    400080: r_toe.R
+    400082: r_toe.R_end
+    400084: r_toe.R_end_end
+    400086: root
+    400088: shin.L
+    400090: shin.R
+    400092: spine.001
+    400094: spine.001_end
+    400096: spine.001_end_end
+    400098: spine.002
+    400100: spine.003
+    400102: spine.004
+    400104: spine.005
+    400106: spine.006
+    400108: spine.008
+    400110: spine.009
+    400112: spine.010
+    400114: spine.011
+    400116: spine.012
+    400118: spine.013
+    400120: spine.013_end
+    400122: spine.013_end_end
+    400124: spine.014
+    400126: spine.015
+    400128: spine.016
+    400130: spine.017
+    400132: spine.017_end
+    400134: spine.017_end_end
+    400136: upper_arm.L
+    400138: upper_arm.L.001
+    400140: window
+    400142: window.001
+    400144: window.002
+    400146: //RootNode
+    2000000: Camera
+    2100000: No Name
+    2300000: Circle
+    2300002: window
+    2300004: window.001
+    2300006: window.002
+    3300000: Circle
+    3300002: window
+    3300004: window.001
+    3300006: window.002
+    4300000: Circle
+    4300002: window
+    4300004: window.001
+    4300006: window.002
+    7400000: metarig|metarig|metarig|Rearing|metarig|Rearing
+    7400002: metarig|metarig|metarig|Rearing|metarig|Rearing.001
+    7400004: metarig|metarig|metarig|Rearing|metarig|Rearing.002
+    9500000: //RootNode
+    10800000: Light
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b36576f4def63f64d97c6b1955b23cc3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

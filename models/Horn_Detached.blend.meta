@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 9f0bee94014ee6d4983d307faf2f40ed
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back left driver
+    100002: back left pole
+    100004: back left pole_end
+    100006: back left target
+    100008: back left target_end
+    100010: back right driver
+    100012: back right pole
+    100014: back right pole_end
+    100016: back right target
+    100018: back right target_end
+    100020: Camera
+    100022: Flying Unicorn
+    100024: foot.L
+    100026: foot.R
+    100028: forearm.L
+    100030: forearm.L.001
+    100032: front left pole
+    100034: front left pole_end
+    100036: front right pole.001
+    100038: front right pole.001_end
+    100040: hand.L
+    100042: hand.L.001
+    100044: hand.L.001_end
+    100046: hand.L_end
+    100048: Horn attachment point
+    100050: Horn attachment point_end
+    100052: Horn Fragment
+    100054: //RootNode
+    100056: jaw
+    100058: left front driver
+    100060: left front target
+    100062: left front target_end
+    100064: Light
+    100066: metarig
+    100068: r_toe.L
+    100070: r_toe.L_end
+    100072: r_toe.R
+    100074: r_toe.R_end
+    100076: right front driver
+    100078: right target
+    100080: right target_end
+    100082: root
+    100084: shin.L
+    100086: shin.R
+    100088: spine.001
+    100090: spine.001_end
+    100092: spine.002
+    100094: spine.003
+    100096: spine.004
+    100098: spine.005
+    100100: spine.006
+    100102: spine.008
+    100104: spine.009
+    100106: spine.010
+    100108: spine.011
+    100110: spine.012
+    100112: spine.013
+    100114: spine.013_end
+    100116: spine.014
+    100118: spine.015
+    100120: spine.016
+    100122: spine.017
+    100124: spine.017_end
+    100126: tail ik
+    100128: tail ik_end
+    100130: upper_arm.L
+    100132: upper_arm.L.001
+    400000: back left driver
+    400002: back left pole
+    400004: back left pole_end
+    400006: back left target
+    400008: back left target_end
+    400010: back right driver
+    400012: back right pole
+    400014: back right pole_end
+    400016: back right target
+    400018: back right target_end
+    400020: Camera
+    400022: Flying Unicorn
+    400024: foot.L
+    400026: foot.R
+    400028: forearm.L
+    400030: forearm.L.001
+    400032: front left pole
+    400034: front left pole_end
+    400036: front right pole.001
+    400038: front right pole.001_end
+    400040: hand.L
+    400042: hand.L.001
+    400044: hand.L.001_end
+    400046: hand.L_end
+    400048: Horn attachment point
+    400050: Horn attachment point_end
+    400052: Horn Fragment
+    400054: //RootNode
+    400056: jaw
+    400058: left front driver
+    400060: left front target
+    400062: left front target_end
+    400064: Light
+    400066: metarig
+    400068: r_toe.L
+    400070: r_toe.L_end
+    400072: r_toe.R
+    400074: r_toe.R_end
+    400076: right front driver
+    400078: right target
+    400080: right target_end
+    400082: root
+    400084: shin.L
+    400086: shin.R
+    400088: spine.001
+    400090: spine.001_end
+    400092: spine.002
+    400094: spine.003
+    400096: spine.004
+    400098: spine.005
+    400100: spine.006
+    400102: spine.008
+    400104: spine.009
+    400106: spine.010
+    400108: spine.011
+    400110: spine.012
+    400112: spine.013
+    400114: spine.013_end
+    400116: spine.014
+    400118: spine.015
+    400120: spine.016
+    400122: spine.017
+    400124: spine.017_end
+    400126: tail ik
+    400128: tail ik_end
+    400130: upper_arm.L
+    400132: upper_arm.L.001
+    2000000: Camera
+    2100000: Material.001
+    2300000: Horn Fragment
+    3300000: Horn Fragment
+    4300000: Flying Unicorn
+    4300002: Horn Fragment
+    7400000: metarig|Rearing
+    9500000: //RootNode
+    10800000: Light
+    13700000: Flying Unicorn
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: metarig|Rearing
+      takeName: metarig|Rearing
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

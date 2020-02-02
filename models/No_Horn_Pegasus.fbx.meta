@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 8c5b56a05037015489b7618763c5d574
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back left driver
+    100002: back left pole
+    100004: back left pole_end
+    100006: back left target
+    100008: back left target_end
+    100010: back right driver
+    100012: back right driver_end
+    100014: back right pole
+    100016: back right pole_end
+    100018: Flying Unicorn
+    100020: foot.L
+    100022: foot.R
+    100024: forearm.L
+    100026: forearm.L.001
+    100028: front left pole
+    100030: front left pole_end
+    100032: front right pole.001
+    100034: front right pole.001_end
+    100036: hand.L
+    100038: hand.L.001
+    100040: hand.L.001_end
+    100042: hand.L_end
+    100044: Horn attachment point
+    100046: Horn attachment point_end
+    100048: jaw
+    100050: metarig
+    100052: //RootNode
+    100054: r_toe.L
+    100056: r_toe.L_end
+    100058: r_toe.R
+    100060: r_toe.R_end
+    100062: root
+    100064: shin.L
+    100066: shin.R
+    100068: spine.001
+    100070: spine.001_end
+    100072: spine.002
+    100074: spine.003
+    100076: spine.004
+    100078: spine.005
+    100080: spine.006
+    100082: spine.008
+    100084: spine.009
+    100086: spine.010
+    100088: spine.011
+    100090: spine.012
+    100092: spine.013
+    100094: spine.013_end
+    100096: spine.014
+    100098: spine.015
+    100100: spine.016
+    100102: spine.017
+    100104: spine.017_end
+    100106: upper_arm.L
+    100108: upper_arm.L.001
+    400000: back left driver
+    400002: back left pole
+    400004: back left pole_end
+    400006: back left target
+    400008: back left target_end
+    400010: back right driver
+    400012: back right driver_end
+    400014: back right pole
+    400016: back right pole_end
+    400018: Flying Unicorn
+    400020: foot.L
+    400022: foot.R
+    400024: forearm.L
+    400026: forearm.L.001
+    400028: front left pole
+    400030: front left pole_end
+    400032: front right pole.001
+    400034: front right pole.001_end
+    400036: hand.L
+    400038: hand.L.001
+    400040: hand.L.001_end
+    400042: hand.L_end
+    400044: Horn attachment point
+    400046: Horn attachment point_end
+    400048: jaw
+    400050: metarig
+    400052: //RootNode
+    400054: r_toe.L
+    400056: r_toe.L_end
+    400058: r_toe.R
+    400060: r_toe.R_end
+    400062: root
+    400064: shin.L
+    400066: shin.R
+    400068: spine.001
+    400070: spine.001_end
+    400072: spine.002
+    400074: spine.003
+    400076: spine.004
+    400078: spine.005
+    400080: spine.006
+    400082: spine.008
+    400084: spine.009
+    400086: spine.010
+    400088: spine.011
+    400090: spine.012
+    400092: spine.013
+    400094: spine.013_end
+    400096: spine.014
+    400098: spine.015
+    400100: spine.016
+    400102: spine.017
+    400104: spine.017_end
+    400106: upper_arm.L
+    400108: upper_arm.L.001
+    2100000: Material.001
+    4300000: Flying Unicorn
+    7400000: metarig|Rearing
+    9500000: //RootNode
+    13700000: Flying Unicorn
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: metarig/root
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: metarig|Rearing
+      takeName: metarig|Rearing
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
